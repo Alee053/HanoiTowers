@@ -13,6 +13,6 @@ This project is an implementation of the classic Tower of Hanoi puzzle using p5.
 - p5.js
 - JavaScript
 
-## Showcase
+## Demo
 
 ![Tower of Hanoi Visualization](showcase.gif)
